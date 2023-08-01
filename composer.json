@@ -1,0 +1,19 @@
+{
+    "name": "jonnelaakso/opensky-api-client",
+    "description": "Simple library to retrieve flight information from OpenSky Network API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jonnelaakso\\OpenskyApiClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonne Laakso",
+            "email": "jonne.laakso@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
