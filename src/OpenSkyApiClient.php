@@ -1,6 +1,6 @@
 <?php
 
-namespace jonnelaakso\OpenskyApiClient;
+namespace OpenskyApiClient;
 
 class OpenSkyApiClient
 {
